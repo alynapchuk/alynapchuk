@@ -1,5 +1,9 @@
 <h1 align='center'>Wait, this isn't Club Penguin?</h1>
 
+<p>
+ <img width="300" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/clubpengmeme.jpeg?raw=true">
+</p>
+
 Welcome to my GitHub. My name is Alyna Palamarchuk.
 
 'Das about it. Learning the ropes. :)
