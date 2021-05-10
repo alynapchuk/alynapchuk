@@ -6,6 +6,8 @@
 
 Welcome to my GitHub. My name is Alyna Palamarchuk.
 
+Current student at Digital Crafts, aspiring full-stack developer.
+
 'Das about it. Learning the ropes. :)
 
  Reach out or follow me for awful meme content on <a href="https://www.instagram.com/uh_lyna/">Instagram</a>! 
