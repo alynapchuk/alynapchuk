@@ -1,5 +1,9 @@
 <h1 align='center'>Wait, this isn't Club Penguin?</h1>
 
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/74-741214_watercolor-transparent-leaves-png-png-download.png?raw=true"></a>
+</p>
+
 <p align='center'>
 Welcome to my GitHub. My name is Alyna Palamarchuk. 'Das about it. Learning the ropes. :)
 </p>
