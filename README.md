@@ -4,6 +4,7 @@
  <img width="300" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/clubpengmeme.jpeg?raw=true">
 </p>
 
+
 Welcome to my GitHub. My name is Alyna Palamarchuk.
 
 Current student at Digital Crafts, aspiring full-stack developer.
