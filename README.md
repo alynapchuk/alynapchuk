@@ -1,4 +1,4 @@
-<h1 align='center'> Hello there, I'm Alyna!</h1>
+<h1 align='center'>Wait, this isn't Club Penguin?</h1>
 
 <p align='center'>
 Welcome to my GitHub. My name is Alyna Palamarchuk. 'Das about it. Learning the ropes. :)
