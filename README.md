@@ -12,8 +12,4 @@ Current student at Digital Crafts, aspiring full-stack developer.
 
  Reach out or follow me for awful meme content on <a href="https://www.instagram.com/uh_lyna/">Instagram</a>! 
 
-<h1><i>"You miss 100% of the shots you don't take.
- 
- -- Wayne Gretzky"
- 
-  -- Micahel Scott</i></h1>
+<h1><i>This is all a test...</i></h1>
