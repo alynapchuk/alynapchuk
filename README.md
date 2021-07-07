@@ -1,7 +1,7 @@
 <h1 align='center'>Wait, this isn't Club Penguin?</h1>
 
 <p>
- <img width="300" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/clubpengmeme.jpeg?raw=true">
+ <img width="200" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/clubpengmeme.jpeg?raw=true">
 </p>
 
 
