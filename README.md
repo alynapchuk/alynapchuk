@@ -1,14 +1,8 @@
-<h1 align='center'>Wait, this isn't Club Penguin?</h1>
-
-<p>
- <img width="200" align='right' src="https://github.com/alynapchuk/alynapchuk/blob/main/clubpengmeme.jpeg?raw=true">
-</p>
+<h1 align='center'>Hi, I'm Alyna!</h1>
 
 
-Welcome to my GitHub. My name is Alyna Palamarchuk.
+Welcome to my GitHub, My name is Alyna Palamarchuk.
 
-Current student at Digital Crafts, aspiring full-stack developer.
+I am a software developer with a focus on creating engaging and functional user interfaces.
 
-'Das about it. Learning the ropes. :)
-
- Reach out or follow me for awful meme content on <a href="https://www.instagram.com/uh_lyna/">Instagram</a>! 
+Check out my <a href="https://www.alynapchuk.com/">portfolio here</a> to see my recent projects and find me on social media.
