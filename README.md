@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-Welcome to my GitHub, my name is Alyna Palamarchuk.
+Welcome to my GitHub, my name is Alyna.
 
   
 I am a software developer with a focus on creating engaging and functional user interfaces.
